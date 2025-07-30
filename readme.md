@@ -15,7 +15,7 @@ This capstone project analyzes and optimizes the sales, stock, and demand of a c
 - Daily, weekly, and monthly sales trends
 
 ## 📈 Dashboard
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## 🧠 Future Integration
 - Power BI
